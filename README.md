@@ -1,3 +1,5 @@
+Netflix-Movies-and-TV-Shows
+
 Importance of Data Science
 Data Science plays a role so important in a majority of online services and helps not only bring more customers but keeps the existing ones happy. The reason why is because, with Data Science, you get a more realistic picture of your consumers’ taste in the form of graphs and charts that take not just one metric but several as input. This crucial piece of information helps you in molding your products and services in a way that looks one-of-a-kind to your customers, attracting them to your platform.
 
